@@ -1,0 +1,6 @@
+﻿id,lat,lon,payload_kg,distance_km,battery_pct,wind_speed_mps,rain_mm,time_of_day,num_stops
+1,12.9750,77.5970,1.2,4.5,80,3.0,0.0,morning,1
+2,12.9800,77.6000,0.8,3.2,65,2.0,0.0,afternoon,1
+3,12.9700,77.5900,1.5,5.0,75,4.0,0.5,evening,2
+4,12.9650,77.6050,0.6,2.8,85,1.5,0.0,morning,1
+5,12.9780,77.5850,0.9,3.7,70,2.5,0.0,afternoon,1
